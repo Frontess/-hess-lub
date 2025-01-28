@@ -26,10 +26,7 @@
 - JavaScript: Функциональность и интерактивные элементы.
 - Слайдер Swiper.
 
-bash
-git clone https://github.com/username/repository.git
 Перейдите в директорию проекта:
-
 bash
 cd repository
 Откройте файл index.html в браузере.
